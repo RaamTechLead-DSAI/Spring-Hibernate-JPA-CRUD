@@ -5,7 +5,7 @@ import com.springCrud.crud.entity.Student;
 
 import java.util.List;
 
-// DAO (Data Access Object) interface for handling Student-related database operations
+// DAO (Data Access Object) interface for handling Student-related database (MySQL) operations
 public interface StudentDAO {
 
     // Save a new student to the database or update an existing student's information
